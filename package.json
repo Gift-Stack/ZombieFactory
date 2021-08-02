@@ -1,0 +1,22 @@
+{
+  "name": "zombie_dna.sol",
+  "version": "1.0.0",
+  "description": "Create new zombies and get their dna's and names",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gift-Stack/ZombieFactory.git"
+  },
+  "author": "Gift Opia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gift-Stack/ZombieFactory/issues"
+  },
+  "homepage": "https://github.com/Gift-Stack/ZombieFactory#readme"
+}
